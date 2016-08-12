@@ -1,7 +1,7 @@
 name: LIJEcrew
 favicon: null
-layout_spectrum: 0.966782737057656
-typography_spectrum: 0.15185577841475606
+layout_spectrum: 0.37925
+typography_spectrum: 0.51412
 title: a crew of hard knocks
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.22008205158635974
+  brandStrength: 0
   lightness: 0.039369299076497555
-  saturation: 0.8597425548359752
+  saturation: 0.5
   rhythmicContrast: 0.14485256583429873
 purpose: []
