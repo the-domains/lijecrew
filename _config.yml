@@ -1,0 +1,28 @@
+name: LIJEcrew
+favicon: null
+layout_spectrum: 0.966782737057656
+typography_spectrum: 0.15185577841475606
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.22008205158635974
+  lightness: 0.039369299076497555
+  saturation: 0.8597425548359752
+  rhythmicContrast: 0.14485256583429873
+purpose: []
