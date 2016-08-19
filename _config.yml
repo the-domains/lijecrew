@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: reset
+  - name: 'count me down to reset history, contained'
     id: 48735467-f86b-4bff-92d6-c1f82f57a240
     type: content
 favicon: null
