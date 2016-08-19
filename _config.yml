@@ -1,4 +1,25 @@
+name: LIJEcrew
+favicon: null
+layout_spectrum: 0
 typography_spectrum: 0.51412
+navigation:
+  - name: 'count me down to reset history, contained'
+    id: 48735467-f86b-4bff-92d6-c1f82f57a240
+    type: content
+title: home
+description: cribbin
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -10,25 +31,4 @@ color:
   lightness: 0
   saturation: 1
   rhythmicContrast: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: LIJEcrew
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: 'count me down to reset history, contained'
-    id: 48735467-f86b-4bff-92d6-c1f82f57a240
-    type: content
-favicon: null
-title: home
-description: cribbin
 purpose: []
